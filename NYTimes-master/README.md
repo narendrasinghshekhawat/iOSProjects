@@ -1,6 +1,6 @@
-# HotelTonight Test Project
+# NYtimesDemo
 This app supports iPhones and iPads running iOS 10.
-Built with Xcode Version 8.2.1 (8C1002). Written in Swift 3 and Objective-C.
+Built with Xcode Version 9 . Written in Swift 4 and Objective-C.
 
 This sample project initially displays a list of the most popular New York Times articles from the last 30 days. It enables users to search the New York Times API for articles, view details about each article, share the article, and view the full article in Safari.
 
